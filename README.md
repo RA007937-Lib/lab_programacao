@@ -1,2 +1,19 @@
-# lab_programacao
-Referente a matéria de laboratório de programação
+# Laboratório de Programação
+Bem-vindos ao repositório central da disciplina **Laboratório de Programação**. Este espaço foi projetado para ser o ponto de encontro entre a teoria e a prática, onde transofrmamos lógica em software funcional
+
+## O que é README?
+Este arquivo foi escrito em **markdown**, uma linguagem de marcação leve que você usará constantemente em sua carreira para documentos projetos, criar wikis no Github e estruturar mensagens técnicas.
+> **Dica de markdown:** você pode criar situações com esta usando o caracter `>`.
+---
+## Benefícios desta disciplina
+A matéria de Laboratório de Programação é o coração da formação de um desenvolvedor. Aqui =, os benefícios vão além da escrita do código:
+1. **resolução de problemas complexos:** Você aprenderá a decompor grandes desafios em pequenas tarefas tratáveis.
+2. **"Mentalidade mão na massa:"** A disciplina foca na experimentação. O erro aqui não é um fracasso, mas um passo necessário para o aprendizado
+
+---
+## Tabela de conteúdos
+|Aula|Tópico|Status|
+|:---|:---|:---|
+|01 | Introdução ao ambiente de terminal | Concluído |
+| 02 | Tipos de Dados e variáveis | Em preogresso |
+| 03 | Estruturas de repetição | Agendado |
